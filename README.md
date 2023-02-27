@@ -1,1 +1,0 @@
-# sindack-gg.github.io
