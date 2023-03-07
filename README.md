@@ -8,6 +8,6 @@ Select a game below to view my progress and accomplishments:
 
 Retired games:
 - [DanceRush Stardom (DRS)](drs/drs.md)
-- Groove Coaster
-- Super Mario Bros. 35
-- Boom Beach
+- [Groove Coaster](gc/gc.md)
+- [Super Mario Bros. 35](smb35/smb35.md)
+- [Boom Beach](boom_beach/boom_beach.md)
