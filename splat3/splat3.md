@@ -33,7 +33,7 @@ I have reached the highest rank of Eggsecutive (EVP) 999 during many weapon rota
 | Spawning Grounds        |                    |                        |
 | Marooners Bay           |                    |                        |
 | _Wahoo World*_          | 162                |                        |
-| _Inkblot Art Academy*_  | 208                |                        |
+| _Inkblot Art Academy*_  | 208                | [link](big_run/inkblot.md) |
 
 _*: Big Run exclusive map_
 
